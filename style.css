@@ -1,0 +1,9 @@
+/* border tyles for grid */
+div[class^="col"] {
+    min-height: 50px;
+    border: 1px solid black;
+}
+
+.row{
+    border: 1px dashed red;
+}
